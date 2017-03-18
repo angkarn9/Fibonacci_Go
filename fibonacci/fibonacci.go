@@ -31,4 +31,5 @@ func LoopDisplay(digit1, digit2 int, maxRound int) {
 		}
 		Display(digit2)
 	}
+	println()
 }
